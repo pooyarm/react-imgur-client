@@ -1,0 +1,19 @@
+.flex {
+	display: flex;
+}
+.flex-column {
+	flex-direction: column;
+}
+.flex-center-items {
+	align-items: center;
+}
+.flex-grow-1 {
+	flex-grow: 1;
+}
+
+.App {}
+.App-container {
+	max-width: 850px;
+	width: 80%;
+	margin: 20px auto;
+}

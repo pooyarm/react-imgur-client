@@ -1,0 +1,3 @@
+export const ACTION_FETCH_GALLERY = 'FETCH_GALLERY';
+
+export const CLIENT_ID = 'b65b70e83999204';
